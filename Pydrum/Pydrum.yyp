@@ -103,11 +103,27 @@
             }
         },
         {
+            "Key": "765c9d92-1dce-4914-9e21-eefa853320fb",
+            "Value": {
+                "id": "6571dd1f-585a-453b-846d-1368e5dba975",
+                "resourcePath": "objects\\objWall\\objWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9152a260-e0d9-4958-a9cb-d78ac7cf5784",
             "Value": {
                 "id": "2169f003-0fd5-480b-9146-e6aaeda8bb58",
                 "resourcePath": "views\\9152a260-e0d9-4958-a9cb-d78ac7cf5784.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a41f6c6-abb0-4a65-9137-1de9676f15c6",
+            "Value": {
+                "id": "ee0d3f91-0a82-401d-adb1-632a77600840",
+                "resourcePath": "sprites\\sprDungeonTilset\\sprDungeonTilset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "cc148a4e-238c-4f1f-8d32-e6bbd8b0c1ab",
+            "Value": {
+                "id": "dab8b4eb-3388-461f-9b09-f55daab2f537",
+                "resourcePath": "sprites\\sprMask\\sprMask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c15559d6-8b73-40c3-b3a3-b2b05f936331",
@@ -196,6 +220,14 @@
                 "id": "90a1b36a-d303-4fb8-aeaf-3c35f76b0ba9",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f8295471-6e31-4063-b0c0-f4a16a1b0e57",
+            "Value": {
+                "id": "21ec28aa-ea28-4c9d-a766-9ad07f0447b1",
+                "resourcePath": "tilesets\\tsDungeonTilset\\tsDungeonTilset.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
