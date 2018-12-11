@@ -1,0 +1,88 @@
+Converting GML script: HanifFlatUI.gml
+Converted string - line 29: '|' -> "|"
+Converted string - line 39: '|' -> "|"
+Converted string - line 76: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 20: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 35: '|' -> "|"
+Converted string - line 36: "\#" -> "\\#"
+Converted string - line 37: "\#" -> "\\#"
+Converted string - line 71: "\#" -> "\\#"
+Converted string - line 71: "\#" -> "\\#"
+Converted string - line 95: '|' -> "|"
+Converted string - line 103: '|' -> "|"
+Converted string - line 105: '|' -> "|"
+Converted string - line 109: '|' -> "|"
+Converted string - line 258: '|' -> "|"
+Converted string - line 259: '|' -> "|"
+Converted string - line 260: '|' -> "|"
+Converted string - line 264: '|' -> "|"
+Converted string - line 279: '|' -> "|"
+Converted string - line 281: '|' -> "|"
+Converted string - line 286: '|' -> "|"
+Converted string - line 288: '|' -> "|"
+Converted string - line 295: "\#" -> "\\#"
+Converted string - line 296: "\#" -> "\\#"
+Converted string - line 301: "\#" -> "\\#"
+Converted string - line 301: "\#" -> "\\#"
+Converted string - line 301: '|' -> "|"
+Converted string - line 304: "\#" -> "\\#"
+Converted string - line 304: "\#" -> "\\#"
+Converted string - line 304: '|' -> "|"
+Converted string - line 309: '|' -> "|"
+Converted string - line 309: '|' -> "|"
+Converted string - line 313: '|' -> "|"
+Converted string - line 320: '|' -> "|"
+Converted string - line 326: "\#" -> "\\#"
+Converted string - line 329: '|' -> "|"
+Converted string - line 329: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 35: '|' -> "|"
+Converted string - line 94: '|' -> "|"
+Converted string - line 95: '|' -> "|"
+Converted string - line 95: '|' -> "|"
+Converted string - line 194: '|' -> "|"
+Converted string - line 195: '|' -> "|"
+Converted string - line 195: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 15: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 40: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 44: "\" -> "\\"
+Converted string - line 44: '"' -> "\""
+Converted string - line 354: "\#" -> "\\#"
+Converted string - line 355: "\#" -> "\\#"
+
+Converting GML script: ${project_dir}\scripts\header\header.gml
+Converted description /// @description Draw rectangle as header background
+
+Converting GML script: ${project_dir}\scripts\footer\footer.gml
+Converted description /// @description Draw rectangle as footer background
+
+!!! Font fontHuge uses a font (Roboto Thin) not installed on this system - Font has NOT been regenerated
+!!! Font fontTitle uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+!!! Font fontText uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+!!! Font fontButton uses a font (Roboto Medium) not installed on this system - Font has NOT been regenerated
+!!! Font fontLabel uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+!!! Font fontSmall uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+!!! Font fontKeyboard uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+!!! Font fontDebug uses a font (Roboto Bold) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\objTextbox\Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}\objects\objTextbox\Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}\objects\objTextbox\Draw_64.gml
+Converted description /// @description Draw GUI and Controls
+
+Converting GML script: ${project_dir}\objects\objTextbox\Draw_0.gml
+Converted description /// @description Draw instance elements
