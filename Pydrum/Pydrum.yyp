@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "4ed92ad1-10e1-4ee9-ba59-79ccd0dea796",
+            "Value": {
+                "id": "33984580-eba9-41af-9668-064b842bd6e7",
+                "resourcePath": "objects\\objPowerBeam\\objPowerBeam.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5076063f-0c7a-449c-aa9a-112496d8e294",
             "Value": {
                 "id": "1065e038-0526-4f9c-bbf2-198e047b28fd",
@@ -364,6 +372,14 @@
                 "id": "94b64767-13cb-4063-96c3-1c467074d53e",
                 "resourcePath": "fonts\\fontSmall\\fontSmall.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "cd4ed539-fe77-4367-be45-bca36a43195c",
+            "Value": {
+                "id": "d54dd315-4880-4f97-8eed-0333090e0aae",
+                "resourcePath": "sprites\\sprPowerBeam\\sprPowerBeam.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
