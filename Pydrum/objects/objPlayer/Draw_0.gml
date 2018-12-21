@@ -19,7 +19,4 @@ for(var i = 0; i < max_length; i++){
 
 }
  
-if image_xscale = 1 
-draw_line(x + 11,y - 7,lx,ly)
-else
-draw_line(x - 11,y - 7,lx,ly)
+ 
