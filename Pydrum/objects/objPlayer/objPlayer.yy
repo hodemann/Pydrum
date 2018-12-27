@@ -23,6 +23,46 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "d9e8b684-ca0c-4db5-a83a-11452cafd98c"
+        },
+        {
+            "id": "2d68c927-ac4b-4f55-bc47-618bb54fb125",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "452360ff-901c-4a3f-bc1e-1ab9365e46ea",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "d9e8b684-ca0c-4db5-a83a-11452cafd98c"
+        },
+        {
+            "id": "bd842e77-2949-4ddb-aea8-54a2f264bf35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "d9e8b684-ca0c-4db5-a83a-11452cafd98c"
+        },
+        {
+            "id": "dd37f274-2290-4f6a-b188-d7ad8e98b8c1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
+            "m_owner": "d9e8b684-ca0c-4db5-a83a-11452cafd98c"
+        },
+        {
+            "id": "6b6acf4a-2723-4b09-bc60-634b6abc91bd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 69,
+            "eventtype": 5,
+            "m_owner": "d9e8b684-ca0c-4db5-a83a-11452cafd98c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -83,6 +123,20 @@
             "value": "2",
             "varName": "movmentSpeed",
             "varType": 0
+        },
+        {
+            "id": "0c49401b-c470-46cc-89e1-05bc30b4151c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "gameover",
+            "varType": 3
         }
     ],
     "solid": false,

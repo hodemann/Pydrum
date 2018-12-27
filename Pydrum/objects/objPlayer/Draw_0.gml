@@ -1,22 +1,24 @@
 draw_self()
 
-if image_xscale = 1
-direction = point_direction(x,y, mouse_x, mouse_y);
-else
-direction = point_direction(x,y, mouse_x, mouse_y);
+if gameover {
+	
+	draw_set_halign(fa_middle)
+	draw_set_color(make_color_rgb(37,19,26));
+	
+	draw_rectangle(room_width/2-100,room_height/3-50,room_width/2+100,room_height/2+50, false);
 
-var max_length = room_width + room_height;
-var solid_object = objWall;
+	draw_set_color(c_white)
+	
+	draw_text(room_width/2,room_height/3,"Game Over")
+	draw_text(room_width/2,room_height/2,alarm[0])
 
-for(var i = 0; i < max_length; i++){
+	x = xstart
+	y = ystart
 
-    var lx = x + lengthdir_x(i, direction);
-    var ly = y + lengthdir_y(i, direction);
-
-    if(collision_point(lx, ly, solid_object, false, true)){
-        break;
-    }
-
+	with objEnemy {
+		x = xstart
+		y = ystart
+	}
 }
  
  
