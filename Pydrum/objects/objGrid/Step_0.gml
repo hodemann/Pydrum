@@ -5,7 +5,7 @@ with (objEnemy)
    path = path_add();
    if mp_grid_path(global.grid, path, x, y, objPlayer.x, objPlayer.y, 1)
       {
-      path_start(path, 1, 3, 0);
+      path_start(path, 0.5, 3, 0);
       }
    }
    
