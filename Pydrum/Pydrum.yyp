@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01c6cbe9-c78f-4ab0-93a1-b68e41226453",
+            "Value": {
+                "id": "36631a5a-8876-4cb7-a92c-39401dbcc2e7",
+                "resourcePath": "sounds\\mscAction\\mscAction.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "02e76144-fe27-4f5b-9af9-fdf8cb03188c",
             "Value": {
                 "id": "10b93c21-feaf-4fdd-af35-8c6e280b88ec",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "6de47142-c2fd-4513-afc3-47f634374f1b",
+            "Value": {
+                "id": "2c3ecd14-83e0-417d-9799-d03dd9f60291",
+                "resourcePath": "sounds\\mscMenu\\mscMenu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7291fdfe-7a80-468a-b3d8-4f71252d0247",
             "Value": {
                 "id": "7e577c69-4615-473a-b92a-83a3ebda76d4",
@@ -324,6 +340,22 @@
                 "id": "3bc6788b-08e6-44cc-99e2-ed84290e1a79",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b402013f-b05a-4e53-8fda-9b96dfb737c3",
+            "Value": {
+                "id": "75593803-2f80-45cc-a33b-c8696dc4027d",
+                "resourcePath": "sounds\\mscNormal\\mscNormal.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "bbf3c856-21cb-4d4a-ac2b-41c3efdec731",
+            "Value": {
+                "id": "d0d00da0-af4f-4791-a673-0a231eb3fda8",
+                "resourcePath": "sounds\\sound3\\sound3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
