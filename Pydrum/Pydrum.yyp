@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "121c682a-fc15-4686-9df1-b07cbcb3d692",
-            "Value": {
-                "id": "ebff4796-cb4c-4690-8743-6c26a415340f",
-                "resourcePath": "fonts\\fontText\\fontText.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "12332da5-122e-47c6-a093-2d44d4de1652",
             "Value": {
                 "id": "a1f3424f-d38b-4d44-9d16-de780dd141a7",
@@ -63,19 +55,11 @@
             }
         },
         {
-            "Key": "170c3aad-94f6-4de9-aaea-3a2cb3ac7068",
+            "Key": "1bd76102-c8ca-4f17-8b60-f07bef79aea4",
             "Value": {
-                "id": "19863d02-6ac3-41b7-8d77-116a5a3c34eb",
-                "resourcePath": "fonts\\fontKeyboard\\fontKeyboard.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "1edafa75-e4bf-4fc3-9d7a-700607f8acb4",
-            "Value": {
-                "id": "8f71ab67-d2df-4162-ba51-fad506d1d349",
-                "resourcePath": "fonts\\fontHuge\\fontHuge.yy",
-                "resourceType": "GMFont"
+                "id": "434691af-52f5-4dfe-a9ff-a22a7c97844c",
+                "resourcePath": "rooms\\menu\\menu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -148,14 +132,6 @@
                 "id": "2a46ec21-b3b6-4b5f-bf67-bd76bbf82a24",
                 "resourcePath": "views\\46b7307c-67c8-4243-88a4-c2c9d9346950.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5076063f-0c7a-449c-aa9a-112496d8e294",
-            "Value": {
-                "id": "1065e038-0526-4f9c-bbf2-198e047b28fd",
-                "resourcePath": "fonts\\fontButton\\fontButton.yy",
-                "resourceType": "GMFont"
             }
         },
         {
@@ -239,6 +215,14 @@
             }
         },
         {
+            "Key": "8bb042df-adc7-4dd4-b684-0469f9da73f7",
+            "Value": {
+                "id": "490f10e9-134b-4079-9dd2-7e5b5af2697e",
+                "resourcePath": "fonts\\INFECTED\\INFECTED.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9152a260-e0d9-4958-a9cb-d78ac7cf5784",
             "Value": {
                 "id": "2169f003-0fd5-480b-9146-e6aaeda8bb58",
@@ -303,27 +287,11 @@
             }
         },
         {
-            "Key": "a582339b-ec45-4aff-8911-3a55881e8fdf",
-            "Value": {
-                "id": "573bc034-53a1-4c31-9514-d91cb8469873",
-                "resourcePath": "fonts\\fontTitle\\fontTitle.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "a69e461c-32af-455b-8d7a-2ef31708ca71",
             "Value": {
                 "id": "658d0f8a-004c-415f-8827-5ef926f0cec2",
                 "resourcePath": "views\\a69e461c-32af-455b-8d7a-2ef31708ca71.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a718b2df-fe0b-4f43-b62e-eae09ab6301a",
-            "Value": {
-                "id": "127cd314-5b77-43ac-89fe-94109014ded4",
-                "resourcePath": "fonts\\fontLabel\\fontLabel.yy",
-                "resourceType": "GMFont"
             }
         },
         {
@@ -340,6 +308,14 @@
                 "id": "3bc6788b-08e6-44cc-99e2-ed84290e1a79",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa27f82a-39db-40b6-986c-b882da28025a",
+            "Value": {
+                "id": "0587beed-b837-44d4-b646-0b1767188cb3",
+                "resourcePath": "objects\\objMenuDraw\\objMenuDraw.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -391,27 +367,11 @@
             }
         },
         {
-            "Key": "cd3aa8d2-48d6-4b39-9713-49f868d05a8c",
-            "Value": {
-                "id": "94b64767-13cb-4063-96c3-1c467074d53e",
-                "resourcePath": "fonts\\fontSmall\\fontSmall.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "d52a8792-ddc0-48b4-83db-9cf2bd661ad0",
             "Value": {
                 "id": "89e7ab99-e406-464f-b9cc-6088b407dc23",
                 "resourcePath": "scripts\\v_save_load\\v_save_load.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "d7f77260-6058-43b8-9ecb-969fbd9ef525",
-            "Value": {
-                "id": "c5c02f43-629c-4005-b693-86d3a3985118",
-                "resourcePath": "fonts\\fontDebug\\fontDebug.yy",
-                "resourceType": "GMFont"
             }
         },
         {
