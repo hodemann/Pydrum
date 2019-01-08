@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "089c290b-8a3d-4794-9335-c197cf0b6fdd",
+            "Value": {
+                "id": "71c8a786-277f-4f7f-aca5-e3c4fed30e27",
+                "resourcePath": "rooms\\lvl2\\lvl2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "12332da5-122e-47c6-a093-2d44d4de1652",
             "Value": {
                 "id": "a1f3424f-d38b-4d44-9d16-de780dd141a7",
@@ -156,6 +164,14 @@
                 "id": "aa229069-4864-4c51-8cf6-1a93c866c77b",
                 "resourcePath": "scripts\\header\\header.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6945e178-8bd8-4977-9f64-ec7c5c648379",
+            "Value": {
+                "id": "3eeeace8-6d61-4813-b9d8-21dabe11a0bf",
+                "resourcePath": "sprites\\sprNextLvl\\sprNextLvl.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -412,6 +428,14 @@
                 "id": "309cd07a-cf68-436a-9ae3-68ac0d2aff9d",
                 "resourcePath": "extensions\\Perfect_Colisions_Example\\Perfect_Colisions_Example.yy",
                 "resourceType": "GMExtension"
+            }
+        },
+        {
+            "Key": "eddaf35b-9f86-4bb1-9a3d-7f49adcbeeba",
+            "Value": {
+                "id": "77b4998f-f6c9-488f-b9b7-909dd8fdf1b0",
+                "resourcePath": "objects\\objNextLvl\\objNextLvl.yy",
+                "resourceType": "GMObject"
             }
         },
         {

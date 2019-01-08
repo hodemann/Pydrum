@@ -1,3 +1,6 @@
+if !gameover timer ++;
+
+
 //X and Y speed
 x += xSpd
 y += ySpd

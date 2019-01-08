@@ -8,8 +8,11 @@ draw_set_font(INFECTED)
 
 
 draw_text(room_width/2, room_height/3,"Pydrum")
+
+
 if !audio_is_playing(mscMenu) audio_play_sound(mscMenu, 1, false);
 
 draw_set_font(BornSporty)
+draw_text(room_width/2, (room_height/3)*2,"Play");
 
 
