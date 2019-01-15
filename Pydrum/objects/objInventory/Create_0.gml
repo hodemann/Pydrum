@@ -2,6 +2,7 @@ globalvar playerInventory, playerInventoryWidth;
 playerInventoryWidth = 5;
 playerInventory = ds_grid_create(playerInventoryWidth, 1);
 
+
 additem(playerInventory, "Man", 1, "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", candy_01a, "");
 additem(playerInventory, "Man1", 1, "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", candy_01a, "");
 additem(playerInventory, "Man2", 1, "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", candy_01a, "");
