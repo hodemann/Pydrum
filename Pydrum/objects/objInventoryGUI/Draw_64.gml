@@ -25,3 +25,11 @@ for(i = 0; i < inventoryEndAt; ++i) {
 }
 
 draw_rectangle(bbox_left + textBorder, itemTopStart + (itemSelected * 32), bbox_right - textBorder, itemTopStart + (itemSelected * 32) + 32, true)
+
+
+draw_sprite(sprItemBox, 0, bbox_right + sprite_get_xoffset(sprItemBox), room_height - sprite_get_yoffset(sprItemBox));
+
+if(isEmpty) 
+	draw_text_ext(bbox_right + 50, room_height - sprite_get_yoffset(sprItemBox) - 100, emptyMessage, 32, sprite_get_width(sprItemBox) - textBorder);
+else
+	draw_text_ext(bbox_right + 15, room_height - sprite_get_yoffset(sprItemBox) - 100, ds_grid_get(myItems,2,itemSelected), 32, sprite_get_width(sprItemBox) - textBorder);
