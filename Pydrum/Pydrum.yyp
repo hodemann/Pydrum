@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "2d0814c5-32d8-4869-83ac-3b5a521d1a44",
+            "Value": {
+                "id": "128c9d51-88b6-485b-87f5-366f1e4b595b",
+                "resourcePath": "sprites\\sprMinigame\\sprMinigame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d52c008-a343-4679-ad97-bc82f911fdec",
             "Value": {
                 "id": "aa882fd4-e7d5-4dfc-99d4-d6f78d38de18",
@@ -716,6 +724,14 @@
                 "id": "db15289c-7f64-40bc-ab8b-81ecf4484ce3",
                 "resourcePath": "fonts\\Kingsmall\\Kingsmall.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3cd887be-05e3-4cc1-ab86-1d99051374d5",
+            "Value": {
+                "id": "3b9c8f3b-0330-410f-bf7c-15be5896a74c",
+                "resourcePath": "rooms\\minigames\\minigames.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -2284,6 +2300,14 @@
                 "id": "139b4c27-f247-4a69-aa0f-502a0765a270",
                 "resourcePath": "scripts\\footer\\footer.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c479b8bd-79f3-4eca-8446-20c01840908d",
+            "Value": {
+                "id": "c54bc6c0-f52d-4aff-997c-82defbd9ba2e",
+                "resourcePath": "objects\\objMinigame\\objMinigame.yy",
+                "resourceType": "GMObject"
             }
         },
         {
